@@ -8,4 +8,6 @@
     <string name="facebook_app_id">455873044565958</string>
     <string name="title_facebook_login">FACEBOOK LOGIN THINGY</string>
 
+    <string name="settings">Settings</string>
+
 </resources>
