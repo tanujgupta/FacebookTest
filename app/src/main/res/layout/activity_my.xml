@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MyActivity">
+
+
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="com.tanujgupta.fbtest.facebooktest.SelectionFragment"
+        android:id="@+id/selectionFragment"
+        android:layout_gravity="center_horizontal" />
+
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="com.tanujgupta.fbtest.facebooktest.SplashFragment"
+        android:id="@+id/splash_fragment" />
+
+</LinearLayout>
