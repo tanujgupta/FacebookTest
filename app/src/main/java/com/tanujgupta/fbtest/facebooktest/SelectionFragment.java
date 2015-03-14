@@ -7,9 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * Created by Tanuj on 13/03/15.
- */
+
 public class SelectionFragment extends Fragment {
 
     private static final String TAG = "SelectionFragment";
